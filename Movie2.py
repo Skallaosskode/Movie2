@@ -25,13 +25,14 @@ while repeat.lower() == "yes":
         print(f"""
         Gas up the Mystery Machine Fred, its time for {name.title()} to go
         on an adventure!  {age} year olds and of course Scoob and Shagg love the scooby
-        snacks btw!
+        snacks btw!  Grab Daphne, and Velma, and lets go!
         """)
 
     elif genre == 'comedy':
         print(f"""
         At {age}, laughing is the best medicine {name.title()}!  Lord Business
-        approves of your choice.  Why not enjoy some chocolate doo doo cookies with your comedy?
+        approves of your choice.  Why not enjoy some chocolate doo doo cookies with your
+        comedy?  And hunny, where's my... paaaaaaaaaaaaaants?!?!?!
         """)
 
     elif genre == 'romance':
